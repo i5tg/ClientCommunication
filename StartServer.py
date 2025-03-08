@@ -40,5 +40,4 @@ finally:
   sock.close()
   print("Server shutting down.")
 
-#made by metamethod3 on discord
-#LongYears9 on Github.
+#Made by i5tg on discord
