@@ -45,5 +45,4 @@ finally:
   client_socket.close()
   print("Connection closed.")
 
-#made by metamethod3 on discord
-#LongYears9 on Github.
+#Made by i5tg on discord
