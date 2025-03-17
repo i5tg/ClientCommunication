@@ -1,4 +1,5 @@
-This is demonstration of how Client and servers communicate. (Coded in python). I made this script while learning the websocket library.
+This is demonstration of how Client and servers communicate. Exactly how multiplayer games work...
+(Coded in python). I made this script while learning the socket library.
 
 
 [HOW TO USE]
