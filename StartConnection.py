@@ -14,7 +14,7 @@ try:
   client_socket.connect((SERVER_ADDRESS, SERVER_PORT))
   print("Connected to server at", SERVER_ADDRESS, ":", SERVER_PORT)
 
-  message = "Did you know niggers are black? "
+  message = "[+] Connection Established. "
   client_socket.sendall(message.encode())
   received_data = client_socket.recv(1024).decode()
   if received_data:
